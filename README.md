@@ -11,3 +11,8 @@ Fonctions non faites :
 - Creer une conversation
 - Ouvrir toutes les conversations et voirs les messages dans une conversation
 - Poster un message dans une conversation
+
+Problèmes rencontrés :
+- Compréhension de Vue JS
+- Utilisation d'Axios
+- Gestion du temps en parallèle des autres travaux à faire
