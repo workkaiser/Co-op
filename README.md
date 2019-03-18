@@ -1,6 +1,7 @@
 Fonctions faites :
 - Création de compte
 - Connexion
+- Vérification du mot de passe avec double saisie
 
 Fonctions non faites :
 - Liste des membres
